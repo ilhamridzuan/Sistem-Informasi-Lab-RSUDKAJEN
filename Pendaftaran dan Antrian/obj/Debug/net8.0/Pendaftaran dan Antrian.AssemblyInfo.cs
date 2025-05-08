@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pendaftaran dan Antrian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820dd283a738336c0ddb4469a6a1bb89bd3dd39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pendaftaran dan Antrian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pendaftaran dan Antrian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
