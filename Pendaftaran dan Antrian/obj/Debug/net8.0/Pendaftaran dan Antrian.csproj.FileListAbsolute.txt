@@ -1,0 +1,30 @@
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\KuotaDaftar.json
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Pendaftaran dan Antrian.exe
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Pendaftaran dan Antrian.deps.json
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Pendaftaran dan Antrian.runtimeconfig.json
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Pendaftaran dan Antrian.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Pendaftaran dan Antrian.pdb
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\System.Text.Json.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.csproj.AssemblyReference.cache
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.AssemblyInfoInputs.cache
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.AssemblyInfo.cs
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.csproj.CoreCompileInputs.cache
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.sourcelink.json
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendafta.A0258769.Up2Date
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\refint\Pendaftaran dan Antrian.dll
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.pdb
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\Pendaftaran dan Antrian.genruntimeconfig.cache
+D:\Daftar Tugas\Semester 4\Tugas Besar\KPL\Pendaftaran dan Antrian\Pendaftaran dan Antrian\obj\Debug\net8.0\ref\Pendaftaran dan Antrian.dll
